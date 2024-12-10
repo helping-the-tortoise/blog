@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on </title>
+    <link>http://localhost:1313/blog/en/about/</link>
+    <description>Recent content in Abouts on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>CHANGE ME</copyright>
+    <atom:link href="http://localhost:1313/blog/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/en/about/about-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/en/about/about-hugo/</guid>
+      <description>&lt;p&gt;Does this work?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
